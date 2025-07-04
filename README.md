@@ -23,7 +23,7 @@
 - Average Defect Rate (%)
 - Supplier Contribution per SKU
 
-- Dashboard Interaction   <a href="https://github.com/amit4910/Supply_chain_Dashboard/blob/main/snapshot_supply_chain_dashboard.png">View Dashboard</a>
+- Dashboard Interaction   <a href="https://github.com/mrunaliurkudkar/Supply-chain-Analysis/blob/main/Supply_chain_analysis%20dashboard.pbix">View Dashboard</a>
 
 ## Process Overview
 - Data Collection: Gathered data on production, sales, inventory, suppliers, and quality metrics.
